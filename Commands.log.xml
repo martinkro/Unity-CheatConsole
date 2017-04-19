@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CommandHistory xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Commands>
+    <CommandLog>
+      <BaseCommand>Clean</BaseCommand>
+      <FullCommand>Clean</FullCommand>
+    </CommandLog>
+    <CommandLog>
+      <BaseCommand>TestEntry1</BaseCommand>
+      <FullCommand>TestEntry1 "xml"</FullCommand>
+    </CommandLog>
+    <CommandLog>
+      <BaseCommand>LS</BaseCommand>
+      <FullCommand>LS Command</FullCommand>
+    </CommandLog>
+  </Commands>
+</CommandHistory>
